@@ -1,0 +1,294 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{manullang}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba6e9c7fa0ef49d4cb662965d0ffd59d}{%
+           family={Manullang},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \strng{fullhash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \strng{bibnamehash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \strng{authorbibnamehash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \strng{authornamehash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \strng{authorfullhash}{ba6e9c7fa0ef49d4cb662965d0ffd59d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pustaka Politeknik Caltex Riau}
+      \field{title}{Robot Pengisi Nomor Token Listrik}
+      \field{year}{2020}
+    \endentry
+    \entry{kurnianto}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7b5c8de44e863dbd2f33d632f1751d65}{%
+           family={Kurnianto},
+           familyi={K\bibinitperiod},
+           given={Danny},
+           giveni={D\bibinitperiod}}}%
+        {{hash=12eb2ff0f28c720ff4ba2f1c01cb851f}{%
+           family={Wijaya},
+           familyi={W\bibinitperiod},
+           given={Aldi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34f720f832e1f2ccdc7922e773d4c617}{%
+           family={Amanaf},
+           familyi={A\bibinitperiod},
+           given={Muntaqo\bibnamedelima Alfin},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a7ee7a43f982e84440199ed77775bdc}
+      \strng{fullhash}{1a7ee7a43f982e84440199ed77775bdc}
+      \strng{bibnamehash}{1a7ee7a43f982e84440199ed77775bdc}
+      \strng{authorbibnamehash}{1a7ee7a43f982e84440199ed77775bdc}
+      \strng{authornamehash}{1a7ee7a43f982e84440199ed77775bdc}
+      \strng{authorfullhash}{1a7ee7a43f982e84440199ed77775bdc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal TELKA UIN}
+      \field{title}{Sistem Pengisian Token Listrik Jarak Jauh Berbasis IoT pada Alat Ukur Listrik Rumah}
+      \field{year}{2022}
+    \endentry
+    \entry{industry40}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ce4f7c6c4a6bb401aa6c4e577c767d28}{%
+           family={Vaidyaa},
+           familyi={V\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=608e9286c158495a72fb87bc8fd7372f}{%
+           family={Ambadb},
+           familyi={A\bibinitperiod},
+           given={Prashant},
+           giveni={P\bibinitperiod}}}%
+        {{hash=df8de8e4e87ae9f365a5463de61e70ce}{%
+           family={Bhosle},
+           familyi={B\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \strng{fullhash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \strng{bibnamehash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \strng{authorbibnamehash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \strng{authornamehash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \strng{authorfullhash}{cbfc70eaf184ca5fec3bd556d7c68cce}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ScienceDirect}
+      \field{title}{Industry 4.0 – A Glimpse}
+      \field{year}{2018}
+    \endentry
+    \entry{iot-sg}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e2d9a032ae63477a7026cf0fb1021ff0}{%
+           family={Greengard},
+           familyi={G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \strng{fullhash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \strng{bibnamehash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \strng{authorbibnamehash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \strng{authornamehash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \strng{authorfullhash}{e2d9a032ae63477a7026cf0fb1021ff0}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Internet of Things}
+      \field{year}{2015}
+    \endentry
+    \entry{iot-arab}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d5f18b04d138abba7da38056fe028f20}{%
+           family={Mohsen\bibnamedelima Guizani},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ala\bibnamedelima Al-Fuqaha},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinithyphendelim F\bibinitperiod},
+           prefix={amd},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=e9633357f28c5a519b419b285ed60085}{%
+           family={Mohammadi},
+           familyi={M\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=78f10d0d58461308e357653e5408e067}{%
+           family={Aledhari},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=50592cee80fe18e8e597d8115457af3a}{%
+           family={Ayyash},
+           familyi={A\bibinitperiod},
+           given={Moussa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb384977779271bb462bee6d6aa4ed}
+      \strng{fullhash}{7ec88561619c5193403f4db18ec0f96d}
+      \strng{bibnamehash}{7ec88561619c5193403f4db18ec0f96d}
+      \strng{authorbibnamehash}{7ec88561619c5193403f4db18ec0f96d}
+      \strng{authornamehash}{0bbb384977779271bb462bee6d6aa4ed}
+      \strng{authorfullhash}{7ec88561619c5193403f4db18ec0f96d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Institute of Electrical and Electronics Engineers (IEEE)}
+      \field{title}{Internet of Things: A Survey on Enabling Technologies, Protocols and Applications}
+      \field{year}{2015}
+    \endentry
+    \entry{esp32}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=baa9f9a7cca5a1ec0743ab3474b0473c}{%
+           family={Espressif},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \strng{fullhash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \strng{bibnamehash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \strng{authorbibnamehash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \strng{authornamehash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \strng{authorfullhash}{baa9f9a7cca5a1ec0743ab3474b0473c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diakses 14 Oktober 2024}
+      \field{title}{Introduction to ESP32}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html
+      \endverb
+    \endentry
+    \entry{esp32-datasheer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5559a7b5e06197efea513321bbbd3fbd}{%
+           family={Espresssif},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5559a7b5e06197efea513321bbbd3fbd}
+      \strng{fullhash}{5559a7b5e06197efea513321bbbd3fbd}
+      \strng{bibnamehash}{5559a7b5e06197efea513321bbbd3fbd}
+      \strng{authorbibnamehash}{5559a7b5e06197efea513321bbbd3fbd}
+      \strng{authornamehash}{5559a7b5e06197efea513321bbbd3fbd}
+      \strng{authorfullhash}{5559a7b5e06197efea513321bbbd3fbd}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf}}
+      \field{note}{Diakses 20 Oktober 2024}
+      \field{title}{ESP32 Series Datasheet}
+      \field{year}{2024}
+    \endentry
+    \entry{cnc}{book}{}
+      \name{author}{4}{}{%
+        {{hash=6de19fcfc02359a2e65e5fa46eae324f}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Suk-Hwan},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=a3f47794a094c09fac4e825131f4bad6}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Seong-Kyoon},
+           giveni={S\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=07695bb75a9eb6019354f3321560315c}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Dae-Hyuk},
+           giveni={D\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=f6fe264e7449bc630454017a90669eaf}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5876fa0f14acc7b73104eaf2c8dbf55d}
+      \strng{fullhash}{0c2934bd2fe578f0736f1349198c258c}
+      \strng{bibnamehash}{0c2934bd2fe578f0736f1349198c258c}
+      \strng{authorbibnamehash}{0c2934bd2fe578f0736f1349198c258c}
+      \strng{authornamehash}{5876fa0f14acc7b73104eaf2c8dbf55d}
+      \strng{authorfullhash}{0c2934bd2fe578f0736f1349198c258c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory and Design of CNC Systems}
+      \field{year}{2008}
+    \endentry
+    \entry{3dprinting}{book}{}
+      \name{author}{3}{}{%
+        {{hash=a9e4731121cfd89ba3bd5b9c190daa5b}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9cedb9c453280858d6819d02e2aac5a0}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7e206a35e7f7da4edc47d5b929e37137}{%
+           family={Stucker},
+           familyi={S\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \strng{fullhash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \strng{bibnamehash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \strng{authorbibnamehash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \strng{authornamehash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \strng{authorfullhash}{da4a968d9f24f9b79f5ee0e5e7614ee2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Additive Manufacturing Technologies}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

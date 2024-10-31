@@ -1,0 +1,69 @@
+\chapter{PENDAHULUAN}
+
+\section{Latar Belakang}
+
+% Ubah paragraf-paragraf berikut sesuai dengan latar belakang dari tugas akhir
+Revolusi Industri 4.0 telah mendorong terciptanya berbagai inovasi dimana sangat mudah sekali untuk melakukan kontrol jarak jauh dengan adanya teknologi Internet of Things (IoT). Salah satu potensi yang dapat direalisasikan adalah otomatisasi pengisian token listrik prabayar secara nirkabel dan berjarak, yang hingga saat ini masih perlu dilakukan secara fisik dan manual oleh manusia.
+
+Listrik prabayar menggunakan sistem token menjadi pilihan utama bagi banyak rumah tangga di Indonesia karena menawarkan kemudahan dalam mengatur konsumsi energi. Namun, proses pengisian token listrik ini masih memerlukan interaksi langsung dengan perangkat meteran, yang bisa menjadi kurang praktis terutama dalam kondisi tertentu, seperti ketika pengguna tidak berada di lokasi, membutuhkan pengisian mendesak, atau memiliki beberapa lokasi dengan listrik prabayar yang butuh diisi secara mandiri. Untuk itu, diperlukan sebuah solusi yang memungkinkan pengisian token listrik dari jarak jauh.
+
+Pada penelitian ini, dirancang sebuah alat pengisi token listrik otomatis berbasis sistem gantry 2-axis dan IoT, dimana dapat diatur secara nirkabel melalui aplikasi, yang memungkinkan pengisian token listrik secara otomatis dengan kendali jarak jauh. Sistem ini dibuat menggunakan stepper motor yang terhubung kepada sistem pergerakan linear yang menggerakan penekan tombol listrik secara akurat, mikrokontroler ESP32 yang terhubung kepada Internet sebagai pusat kendali, dengan servo motor yang berfungsi untuk menekan tombol pada meteran listrik. Selain itu, alat ini juga dilengkapi dengan fitur pemantauan pulsa listrik secara real-time dengan penggunaan kamera dan mikrofon yang memberikan notifikasi kepada pengguna saat sisa pulsa listrik mendekati batas minimum.
+
+Dengan mengintegrasikan teknologi IoT, diharapkan alat ini dapat meningkatkan efisiensi dalam pengisian token listrik, mempermudah pengguna dalam mengontrol konsumsi energi, serta memberikan solusi yang lebih nyaman dan praktis dalam pengelolaan listrik prabayar.
+
+\section{Rumusan Masalah}
+
+% Ubah paragraf berikut sesuai dengan rumusan masalah dari tugas akhir
+Berdasarkan hal yang telah dipaparkan di latar belakang, berikut adalah beberapa rumusan masalah dari penelitian ini:
+
+\begin{enumerate}
+    \item Bagaimana merancang dan mengimplementasikan sebuah alat pengisi token listrik prabayar yang dapat dioperasikan dari jarak jauh menggunakan teknologi IoT?
+    \item Bagaimana cara merancang sistem gantry 2-axis untuk mengotomatiskan proses pengisian token listrik dengan akurasi yang tinggi?
+    \item Bagaimana merancang mekanisme pemantauan sisa pulsa listrik yang dapat memberikan notifikasi secara real-time kepada pengguna saat pulsa mendekati batas minimum?
+    \item Bagaimana memastikan bahwa sistem pengisian token listrik ini bekerja secara efisien, handal, dan mudah dioperasikan melalui aplikasi mobile atau web?
+\end{enumerate}
+
+\section{Batasan Masalah atau Ruang Lingkup}
+Agar penelitian terfokus terhadap tujuan yang ingin diraih tanpa ada penyimpang, berikut adalah beberapa batasan masalah dalam penelitian ini:
+
+\begin{enumerate}
+    \item Sistem yang dirancang hanya digunakan untuk meteran listrik prabayar yang menggunakan tombol fisik untuk memasukkan token.
+    \item Pengendalian alat dilakukan melalui koneksi internet menggunakan perangkat berbasis IoT, baik melalui aplikasi mobile maupun web.
+    \item Mekanisme gerakan pengisian token menggunakan sistem gantry 2-axis dengan servo sebagai alat penekan tombol.
+    \item Penelitian memiliki tujuan utama untuk pengisian dan monitoring token listrik, fitur diluar itu menjadi keluaran tambahan dari penilitian ini.
+\end{enumerate}
+
+\section{Tujuan}
+
+% Ubah paragraf berikut sesuai dengan tujuan penelitian dari tugas akhir
+Tujuan dari penelitian ini adalah sebagai berikut:
+
+\begin{enumerate}
+    \item Merancang dan mengembangkan alat pengisi token listrik prabayar berbasis IoT yang dapat dioperasikan dari jarak jauh.
+    \item Merancang dan mengimplementasikan sistem gantry 2-axis untuk mengotomatisasi proses pengisian token listrik dengan akurasi yang tinggi.
+    \item Membuat sistem pemantauan pulsa listrik secara real-time yang dapat memberikan notifikasi kepada pengguna jika pulsa mendekati batas minimum.
+    \item Membangun aplikasi mobile/web yang memudahkan pengguna dalam mengontrol alat pengisi token dan memantau status pulsa listrik.
+\end{enumerate}
+
+\section{Manfaat}
+
+% Ubah paragraf berikut sesuai dengan tujuan penelitian dari tugas akhir
+Manfaat dari penelitian ini adalah sebagai berikut:
+
+\begin{enumerate}
+    \item Bagi Penulis
+    \begin{itemize}
+        \item Penelitian ini menjadi salah satu prasyarat untuk kelulusan penulis sebagai Sarjana Strata 1 (Satu) dari Departemen Teknik Komputer Institut Teknologi Sepuluh Nopember.
+        \item Sebagai pembelajaran untuk menambah wawasan mengenai sistem perangkat keras dan perangkat lunak yang telah didalami selama menjadi mahasiswa Departemen Teknik Komputer.
+    \end{itemize}
+    \item Bagi Akademisi
+    \begin{itemize}
+        \item Berkontribusi dalam pengembangan dan kemajuan teknologi dibidang Internet of Things, khususnya dibidang otomatisasi secara komersil.
+        \item Menjadi acuan sebagai penelitian selanjutnya mengenai otomatisasi bidang rumah tangga.
+    \end{itemize}
+    \item Bagi Masyarakat
+    \begin{itemize}
+        \item Mempermudah pengisian listrik prabayar secara otomatis dan dari jarak jauh tanpa diperlukan pengisian secara fisik.
+        \item Memberikan kemampuan monitoring dan notifikasi mengenai status pulsa listrik prabayar, untuk mencegah pemutusan listrik secara mendadak. 
+    \end{itemize}
+\end{enumerate}
