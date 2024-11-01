@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1730030868.55506 "main.bcf" "main.bbl" "main" 1730384551.12029 0
-  "main.bcf" 1730384550 107792 b0b8fe09d7a83b5e3504d76d5fd859a4 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1730447295.00839 -1
+  "main.bcf" 1730447294 107791 2d31a501def242d7ddd1efea8b0d2b88 "pdflatex"
   "pustaka/pustaka.bib" 1729988018 2365 a1ea81ab0f94727fc2fd6d914fd99120 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1730384548.62115 "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" "main.pdf" "main" 1730384551.12095 0
+["pdflatex"] 1730447292.27537 "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" "main.pdf" "main" 1730447295.00902 2
   "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" 1729988018 4988 8094cfc5dea98f9de508006f5655c817 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1730004333 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730004458 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -167,7 +167,9 @@
   "c:/texlive/2024/texmf.cnf" 1730005570 713 e69b156964470283e0530f5060668171 ""
   "gambar/bambu-studio.png" 1730041924 394491 fdecb5d8b5e93b7a2a8a87843ef1e7f6 ""
   "gambar/cad-image.png" 1729988018 366314 6fa710110943558967ec1b37107a52a3 ""
+  "gambar/contoh-prototipe-kerangka.jpg" 1730446165 142032 36ef6a5c9d9665cd9616cd2c05afdac4 ""
   "gambar/diagram-metodologi.png" 1729988018 78964 ec55ad3a40e622311423d9141c5cc194 ""
+  "gambar/diagram-program.png" 1730446721 63254 62eacde73e4ba34051e1833b83b9a60d ""
   "gambar/fdm-3d-printer.png" 1729988018 187122 7c7096eb4b906879a4389b369ff510ed ""
   "gambar/implementasi-elektronik.png" 1730046047 111232 56a4729adff896fbb62981087a6dbd9c ""
   "gambar/industry-40.png" 1729988018 32716 0a2539bd04aefb5cd3681d64bd52e9af ""
@@ -183,20 +185,19 @@
   "gambar/sls-3d-printer.jpg" 1729988018 57147 2aa881d8741bb58694555b79a5e6711b ""
   "konten/1-pendahuluan.tex" 1729988018 5807 60f59bbd72066baf975108285714a94a ""
   "konten/2-tinjauan-pustaka.tex" 1730042832 29280 f7a8edd41159a2128de1de30c5a1abe3 ""
-  "konten/3-metodologi.tex" 1730384548 8935 6a85f7a1200ef1cf86493a6952454b13 ""
+  "konten/3-metodologi.tex" 1730447276 9356 3be6d7a974b571cd0672caead6b37851 ""
   "konten/4-lainnya.tex" 1729988018 212 5eab8e71008af6eac97e2d44f0a577ce ""
   "konten/5-jadwal-penelitian.tex" 1729988018 1486 9d8e021681d0898dc696656797ae21c3 ""
   "lainnya/abstrak-en.tex" 1729988018 1216 1b872d8711b74dcfe6feea41cfdaec28 ""
   "lainnya/abstrak.tex" 1729988018 1307 dab28017734e164b2260d398b01c445b ""
   "lainnya/lembar-pengesahan.tex" 1729988018 2037 1cfd8b8f6bafbcd364b9e8215a8edf85 ""
-  "main.aux" 1730384550 10584 ecd8c283099521ae40e082ca72ffe435 "pdflatex"
+  "main.aux" 1730447294 10730 79e122bf77ddee9de27d3b72184fa37a "pdflatex"
   "main.bbl" 1730030872 12007 3fc36bff1b0da0731bc23a60cbf3586f "biber main"
-  "main.lof" 1730384550 2319 d7bdedbd756589316cc0c774c3b00f7c "pdflatex"
-  "main.lot" 1730384550 194 3665b8ce004e7302c1c8ac9687a4c6f5 "pdflatex"
-  "main.out" 1730384550 5203 7f29f3d1653608f626d88d1988a90a26 "pdflatex"
-  "main.run.xml" 1730384550 2407 4d78576b6b469d5bbcca3d454df90db6 "pdflatex"
+  "main.lof" 1730447294 2394 18f6f0e419483814bb9e59645124841e "pdflatex"
+  "main.lot" 1730447294 194 3665b8ce004e7302c1c8ac9687a4c6f5 "pdflatex"
+  "main.out" 1730447294 5203 7f29f3d1653608f626d88d1988a90a26 "pdflatex"
   "main.tex" 1729988018 4988 8094cfc5dea98f9de508006f5655c817 ""
-  "main.toc" 1730384550 2415 40d5a30beddb0a36777f2523507d9d95 "pdflatex"
+  "main.toc" 1730447294 2415 82fefafe72a9ee784e2974c80d64af95 "pdflatex"
   "pustaka/tanda-hubung.tex" 1729988018 111 7270e6d97a59efbb44ebe004f6be32ee ""
   "sampul/gambar/sampul-luar-tipis.png" 1729988018 81872 ab3c1cc3a1f4eaae1870a63859862634 ""
   "sampul/konten-id.tex" 1729988018 1100 e8ca4c3347b989916f2cba1b3705c846 ""

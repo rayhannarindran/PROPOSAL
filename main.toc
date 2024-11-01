@@ -20,8 +20,8 @@
 \contentsline {chapter}{\numberline {3}METODOLOGI}{15}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Desain Prototipe}{15}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Manufaktur Prototipe}{16}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Implementasi Elektronik}{19}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Pemrograman Alat}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Implementasi Elektronik}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Pemrograman Alat}{19}{section.3.4}%
 \contentsline {section}{\numberline {3.5}\textit {Testing} dan Perbaikan}{20}{section.3.5}%
 \contentsline {chapter}{\numberline {4}HASIL YANG DIHARAPKAN}{21}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Hasil yang Diharapkan dari Penelitian}{21}{section.4.1}%

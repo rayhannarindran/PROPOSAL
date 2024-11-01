@@ -63,10 +63,14 @@ terjebak atau terlilit, dan masih banyak lagi fitur lainnya.
 Fitur - fitur tersebut sangat membantu dalam proses manufaktur prototipe yang butuh pengulangan
 yang cukup banyak, sehingga penulis dapat memfokuskan waktu pada tahap desain dan pengujian.
 
-Proses manufaktur diawali dengan menghasilkan file \textit{.stl} dari desain yang telah dibuat, kemudian
-file tersebut diolah menggunakan \textit{software Slicer}, sesuai pada gambar \ref{fig:bambu-studio},yang memotong model 3D menjadi beberapa lapisan
-sehingga dapat dicetak oleh \textit{3D Printer}. Penulis menggunakan \textit{software Bambu Studio} yang
-dapat diakses melalui \textit{cloud} yang terhubung dengan \textit{3D Printer}.
+Proses manufaktur diawali dengan menghasilkan file \textit{.stl} dari desain yang telah dibuat menggunakan \textit{Autodesk Fusion 360}, ke- mudian
+file tersebut diolah menggunakan \textit{software Slicer}, sesuai pada gambar \ref{fig:bambu-studio},
+yang memotong model 3D menjadi beberapa lapisan dan menyatakan perintah sehingga dapat dicetak oleh \textit{3D Printer}. 
+Penulis menggunakan \textit{software Bambu Studio} yang dapat diakses melalui \textit{cloud} yang 
+terhubung dengan \textit{3D Printer}. File \textit{.stl} tersebut merupakan representasi dari objek 3 dimensi yang dibuat dari lapisan-lapisan
+2 dimensi, yang dimana dijadikan sebagai acuan sesuai dengan lokasi tertentu oleh \textit{3D Printer} 
+untuk mencetak objek tersebut. Kemudian file tersebut diunggah ke \textit{cloud} yang terhubung dengan
+\textit{3D Printer}, kemudian \textit{3D Printer} akan membaca file tersebut dan mencetak objek tersebut.
 
 \begin{figure}[H]
   \centering
@@ -75,30 +79,8 @@ dapat diakses melalui \textit{cloud} yang terhubung dengan \textit{3D Printer}.
   \label{fig:bambu-studio}
 \end{figure}
 
-File \textit{.stl} tersebut merupakan representasi dari objek 3 dimensi yang dibuat dari lapisan-lapisan
-2 dimensi, yang dimana dijadikan sebagai acuan sesuai dengan lokasi tertentu oleh \textit{3D Printer} 
-untuk mencetak objek tersebut. Kemudian file tersebut diunggah ke \textit{cloud} yang terhubung dengan
-\textit{3D Printer}, kemudian \textit{3D Printer} akan membaca file tersebut dan mencetak objek tersebut.
-
-Hasil dari manufaktur prototipe dan implementasinya tertera pada gambar \ref{fig:hasil-prototipe-1} 
-dan gambar \ref{fig:hasil-prototipe-2}, dimana prototipe tersebut masih dalam tahap pengujian 
-dan perbaikan, namun dapat menjadi visualisasi dan representasi yang baik untuk hasil produk akhir.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.7\linewidth]{gambar/bambu-studio.png}
-  \caption{}
-  \label{fig:hasil-prototipe-1}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.7\linewidth]{gambar/bambu-studio.png}
-  \caption{}
-  \label{fig:hasil-prototipe-2}
-\end{figure}
-
-Material yang digunakan dalam manufaktur prototipe adalah \textit{PLA} atau \textit{Polylactic Acid},
+Hasil dari manufaktur prototipe dan implementasinya tertera pada gambar \ref{fig:hasil-prototipe-1}, dimana prototipe tersebut masih dalam tahap pengujian 
+dan perbaikan, namun dapat menjadi visualisasi dan representasi yang baik untuk hasil produk akhir. Material yang digunakan dalam manufaktur prototipe adalah \textit{PLA} atau \textit{Polylactic Acid},
 material ini digunakan karena harga nya yang terjangkau, mudah dicetak, dan cukup kuat untuk digunakan
 sebagai prototipe. Namun, material ini memiliki kekurangan yaitu tidak tahan terhadap panas dan
 suhu tinggi, sehingga tidak dapat digunakan dalam lingkungan yang memiliki suhu tinggi. Sebagai 
@@ -106,6 +88,13 @@ alternatif material yang digunakan adalah \textit{PETG} atau \textit{Polyethylen
 material ini memiliki kelebihan yaitu tahan terhadap suhu tinggi, kuat, dan tahan terhadap benturan,
 namun material ini memiliki harga yang lebih mahal dibandingkan \textit{PLA} dan lebih sulit untuk
 dicetak.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.4\linewidth]{gambar/contoh-prototipe-kerangka.jpg}
+  \caption{Contoh manufaktur prototipe menggunakan \textit{3D Printer}}
+  \label{fig:hasil-prototipe-1}
+\end{figure}
 
 \section{Implementasi Elektronik}
 
@@ -141,16 +130,27 @@ sumber daya dari alat, sehingga alat dapat dipasang secara portabel tanpa perlu 
 
 \section{Pemrograman Alat}
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\linewidth]{gambar/diagram-program.png}
+  \caption{Diagram hubungan program alat}
+  \label{fig:diagram-program}
+\end{figure}
+
 Pemrograman alat dilakukan dengan menggunakan \textit{Arduino IDE} langsung menuju ESP32, kemudian komponen listrik
 seperti motor stepper dan servo akan diatur menggunakan \textit{library} yang sudah disediakan oleh \textit{Arduino IDE}.
 Beberapa dari \textit{library} yang digunakan adalah \textit{AccelStepper.h} untuk motor stepper (yang terhubung ke driver motor), 
-\textit{Servo.h} untuk motor servo, dan \textit{WiFi.h} untuk koneksi internet. Secara garis besar,
+\textit{Servo.h} untuk motor servo, dan \textit{WiFi.h} untuk koneksi internet. 
+
+Secara garis besar,
 algoritma yang digunakan diawali dengan memastikan koneksi internet terhubung, kemudian dilakukan
 kalibrasi dari motor stepper dan servo memastikan jarak maksimum dari masing masing motor dan posisi
-angka dari meteran listrik, 
+angka dari meteran listrik, untuk kalibrasi pergerakan vertikal dan horizontal dapat digunakan tombol yang menentukan titik
+maksimum dan minimum dari posisi alat, sedangkan kalibrasi posisi tombol dapat dilakukan dari \texit{web interface} secara manual,
+memastikan alat dapat digunakan di berbagai meteran listrik prabayar.
 kemudian pengguna memberikan input melalui \textit{web interface}/aplikasi yang terhubung ke ESP32,
 dan ESP32 akan menggerakkan motor stepper dan servo sesuai dengan input yang diberikan.
 
 \section{\textit{Testing} dan Perbaikan}
 
-\lipsum[11]
+Test
