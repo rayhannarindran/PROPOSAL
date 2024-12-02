@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1730609124.09271 "main.bcf" "main.bbl" "main" 1730609440.72473 0
-  "main.bcf" 1730609440 107860 93dfa9fd17d3e383c29b337d6f9cf572 "pdflatex"
+["biber main"] 1733166710.2822 "main.bcf" "main.bbl" "main" 1733166739.99849 0
+  "main.bcf" 1733166739 107860 93dfa9fd17d3e383c29b337d6f9cf572 "pdflatex"
   "pustaka/pustaka.bib" 1730462834 2499 71b6a404d5358b8abf3ee0fd4eac7636 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1730609438.06403 "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" "main.pdf" "main" 1730609440.72533 0
+["pdflatex"] 1733166737.22661 "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" "main.pdf" "main" 1733166739.99908 0
   "c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex" 1730609435 5121 f6c1bb1113e3780670903f79434b5e05 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1730004333 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730004458 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -186,19 +186,19 @@
   "konten/1-pendahuluan.tex" 1729988018 5807 60f59bbd72066baf975108285714a94a ""
   "konten/2-tinjauan-pustaka.tex" 1730466760 34796 0800a4a27e718e5221d8b5f99ddb5c20 ""
   "konten/3-metodologi.tex" 1730447938 10835 f92926f184577efdddfcc9346f582d63 ""
-  "konten/4-lainnya.tex" 1729988018 212 5eab8e71008af6eac97e2d44f0a577ce ""
-  "konten/5-jadwal-penelitian.tex" 1729988018 1486 9d8e021681d0898dc696656797ae21c3 ""
+  "konten/4-lainnya.tex" 1733166706 2558 269213ff1b3af285882e9fdb7694396c ""
+  "konten/5-jadwal-penelitian.tex" 1733166674 3365 4ea096d048bc37b5ee6af4bd83a6ac03 ""
   "lainnya/abstrak-en.tex" 1730462609 1204 6c64b455b81b2221804850d85fc57b7b ""
   "lainnya/abstrak.tex" 1730462616 1294 2a538e61ddf9d9c66299ca2c77d7d157 ""
   "lainnya/lembar-pengesahan.tex" 1730462507 2037 8eff032ebb8052aefafd4d0e0988c62f ""
-  "main.aux" 1730609440 10826 fd5154084353c59e92f7005cc1c41596 "pdflatex"
-  "main.bbl" 1730609146 12947 7b76324aa8712c870896ce4ad2e7e5c4 "biber main"
-  "main.lof" 1730609440 2394 e67b4dc53cdd16827b6d14bc62279251 "pdflatex"
-  "main.lot" 1730609440 194 3665b8ce004e7302c1c8ac9687a4c6f5 "pdflatex"
-  "main.out" 1730609440 5109 9eed5444e904cb4150d8f5bc2759487a "pdflatex"
-  "main.run.xml" 1730609440 2407 4d78576b6b469d5bbcca3d454df90db6 "pdflatex"
+  "main.aux" 1733166739 10826 fd5154084353c59e92f7005cc1c41596 "pdflatex"
+  "main.bbl" 1733166737 12947 7b76324aa8712c870896ce4ad2e7e5c4 "biber main"
+  "main.lof" 1733166739 2394 e67b4dc53cdd16827b6d14bc62279251 "pdflatex"
+  "main.lot" 1733166739 194 3665b8ce004e7302c1c8ac9687a4c6f5 "pdflatex"
+  "main.out" 1733166739 5109 9eed5444e904cb4150d8f5bc2759487a "pdflatex"
+  "main.run.xml" 1733166739 2407 4d78576b6b469d5bbcca3d454df90db6 "pdflatex"
   "main.tex" 1730609435 5121 f6c1bb1113e3780670903f79434b5e05 ""
-  "main.toc" 1730609440 2372 282457174b9720356bf04b7cc22bcb2e "pdflatex"
+  "main.toc" 1733166739 2372 282457174b9720356bf04b7cc22bcb2e "pdflatex"
   "pustaka/tanda-hubung.tex" 1729988018 111 7270e6d97a59efbb44ebe004f6be32ee ""
   "sampul/gambar/sampul-luar-tipis.png" 1729988018 81872 ab3c1cc3a1f4eaae1870a63859862634 ""
   "sampul/konten-en.tex" 1730549400 1104 868d95ada001fd338e95cbf71a310a39 ""

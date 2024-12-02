@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.27)  3 NOV 2024 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.27)  3 DEC 2024 02:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1202,6 +1202,11 @@ Underfull \vbox (badness 1742) has occurred while \output is active []
 
  [19 <./gambar/diagram-program.png>]) [20] (./konten/4-lainnya.tex
 Chapter 4.
+
+Overfull \hbox (6.4799pt too wide) in paragraph at lines 10--15
+\OT1/txr/m/n/12 un-tuk memver-i-fikasi ke-ber-hasi-lan proses pengisian to-ken se-cara vi-sual dan au-di-tori, serta memas-
+ []
+
 ) [21
 
 
@@ -1209,6 +1214,16 @@ Chapter 4.
 
 ] (./konten/5-jadwal-penelitian.tex
 Chapter 5.
+
+Underfull \hbox (badness 1748) in paragraph at lines 18--18
+[]|\OT1/txr/m/n/12 Perancangan de-sain
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 22--22
+[]|\OT1/txr/m/n/12 Implementasi hard-
+ []
+
 ) [23
 
 ] [24
@@ -1231,18 +1246,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22199 strings out of 474116
- 384867 string characters out of 5747716
- 1944190 words of memory out of 5000000
+ 22203 strings out of 474116
+ 384895 string characters out of 5747716
+ 1948190 words of memory out of 5000000
  44081 multiletter control sequences out of 15000+600000
  598813 words of font info for 120 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  75i,12n,81p,4017b,1282s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txtt.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (41 pages, 3206525 bytes).
+Output written on main.pdf (41 pages, 3207923 bytes).
 PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 448 compressed objects within 5 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 560 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
  336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
