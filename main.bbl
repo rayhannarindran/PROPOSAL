@@ -254,6 +254,30 @@
       \field{title}{Theory and Design of CNC Systems}
       \field{year}{2008}
     \endentry
+    \entry{masteringcad}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6ad160c09c23ddae4dcbf7934cece25a}{%
+           family={Zeid},
+           familyi={Z\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill}%
+      }
+      \strng{namehash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \strng{fullhash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \strng{bibnamehash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \strng{authorbibnamehash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \strng{authornamehash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \strng{authorfullhash}{6ad160c09c23ddae4dcbf7934cece25a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mastering CAD/CAM}
+      \field{year}{2002}
+    \endentry
     \entry{3dprinting}{book}{}
       \name{author}{3}{}{%
         {{hash=a9e4731121cfd89ba3bd5b9c190daa5b}{%
