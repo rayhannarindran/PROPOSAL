@@ -15,22 +15,41 @@
     \hline
 
     % Gunakan \G untuk mengisi sel dan \w untuk mengosongkan sel
-    Pengambilan data          &
-    \G                        & \G                            & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w \\
+    Perancangan desain alat          &
+    \G                        & \G                            & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w \\
     \hline
 
-    Pengolahan data           &
-    \w                        & \w                            & \w & \w & \G & \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w \\
+    Implementasi hardware           &
+    \w                        & \w                            & \G & \G & \G & \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w \\
     \hline
 
-    Analisa data              &
-    \w                        & \w                            & \w & \w & \w & \w & \w & \w & \G & \G & \G & \G & \w & \w & \w & \w \\
+    Pemrograman alat             &
+    \w                        & \w                            & \w & \w & \w & \w & \w & \w & \G & \G & \G & \G & \G & \G & \w & \w \\
     \hline
 
-    Evaluasi penelitian       &
+    Evaluasi alat       &
     \w                        & \w                            & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \G & \G & \G & \G \\
     \hline
   \end{tabular}
 \end{table}
 
-Pada \emph{timeline} yang tertera di Tabel \ref{tbl:timeline} \lipsum[10]
+Pada \emph{timeline} yang tertera di Tabel \ref{tbl:timeline} di atas, terdapat 4 kegiatan komponen utama yang akan dilakukan dalam penelitian ini, yaitu:
+\begin{enumerate}
+  \item Perancangan desain alat\\
+  Perancangan alat dilakukan pada minggu pertama hingga minggu kedua, dimana saat ini perancangan alat sudah berjalan sehingga hanya membutuhkan
+  sedikit perubahan pada desain alat yang sudah ada.
+  \item Implementasi hardware\\
+  Untuk implementasi hardware, dilakukan pada minggu ketiga hingga minggu delapan, dimana saat ini alat sudah bisa bergerak secara vertikal dan sudah bisa dikontrol,
+  selanjutnya akan dilakukan implementasi hardware untuk bagian yang bergerak secara horizontal dan bagian yang akan menekan tombol pada meteran listrik prabayar.
+  Tahap ini membutuhkan waktu yang panjang untuk memastikan alat dapat bekerja dengan baik juga digunakan waktu tersebut
+  untuk \textit{troubleshooting} dan menyesuaikan desain sesuai kebutuhan dari hardware yang digunakan
+  \item Pemrograman alat\\
+  Pemrograman alat dilakukan pada minggu kesembilan hingga minggu ke-14 dimana saat ini alat
+  tahap pemrograman sampai pada tahap perputaran stepper motor secara vertikal yang diprogram
+  menggunakan Arduino IDE dan library AccelStepperMotor. Selanjutnya program akan dikembangkan sehingga pergerakan yang dilakukan
+  dapat dikontrol dengan lebih presisi juga dengan bantuan limit switch untuk kalibrasi dan melakukan limit pada pergerakan vertikal.
+  Kemudian dilanjutkan dengan pemrograman terhadap pergerakan horizontal dan penekanan tombol pada meteran listrik prabayar.
+  \item Evaluasi alat\\
+  Tahap terakhir adalah evaluasi dari alat dimana memastikan program dan hardware dapat bekerja satu sama lain
+  sesuai dengan harapan keluaran penelitian, dimana tahap ini menjadi tahap iteratif yang akan dilakukan hingga alat dapat bekerja dengan baik.
+\end{enumerate}
