@@ -1,8 +1,8 @@
-PWD d:/Data/Programming/PROPOSAL
+PWD d:/Data/PROJECTS/Programming/PROPOSAL
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Data/Programming/PROPOSAL/main.tex
+INPUT d:/Data/PROJECTS/Programming/PROPOSAL/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -494,11 +494,6 @@ INPUT ./gambar/diagram-program.png
 INPUT ./konten/4-lainnya.tex
 INPUT ./konten/4-lainnya.tex
 INPUT konten/4-lainnya.tex
-INPUT ./gambar/hasil-pendahuluan.jpg
-INPUT ./gambar/hasil-pendahuluan.jpg
-INPUT ./gambar/hasil-pendahuluan.jpg
-INPUT ./gambar/hasil-pendahuluan.jpg
-INPUT ./gambar/hasil-pendahuluan.jpg
 INPUT ./konten/5-jadwal-penelitian.tex
 INPUT ./konten/5-jadwal-penelitian.tex
 INPUT konten/5-jadwal-penelitian.tex
