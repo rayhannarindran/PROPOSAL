@@ -143,7 +143,8 @@ Beberapa dari \textit{library} yang digunakan adalah \textit{AccelStepper.h} unt
 \textit{Servo.h} untuk motor servo, dan \textit{WiFi.h} untuk koneksi internet. 
 
 Secara garis besar,
-algoritma yang digunakan diawali dengan memastikan koneksi internet terhubung, kemudian dilakukan
+algoritma yang digunakan diawali dengan memastikan koneksi internet terhubung dan dapat berkomunikasi dengan
+\textit{web interface}, kemudian dilakukan
 kalibrasi dari motor stepper dan servo memastikan jarak maksimum dari masing masing motor dan posisi
 angka dari meteran listrik, untuk kalibrasi pergerakan vertikal dan horizontal dapat digunakan tombol yang menentukan titik
 maksimum dan minimum dari posisi alat, sedangkan kalibrasi posisi tombol dapat dilakukan dari \textit{web interface} secara manual,
@@ -151,6 +152,17 @@ memastikan alat dapat digunakan di berbagai meteran listrik prabayar.
 kemudian pengguna memberikan input melalui \textit{web interface}/aplikasi yang terhubung ke ESP32,
 dan ESP32 akan menggerakkan motor stepper dan servo sesuai dengan input yang diberikan.
 
+\textit{Web interface} dari alat berisikan dua fungsi utama, yaitu input dan monitoring, pada bagian input user dapat memasukkan
+token yang telah mereka beli, kemudian input tersebut akan dikirimkan melalui jaringan internet ke ESP32, kemudian ESP32 akan
+menggerakkan motor servo untuk menekan tombol pada meteran listrik, kemudian pada bagian monitoring, user dapat melihat menggunakan
+kamera yang terpasang pada ESP32 untuk memastikan bahwa alat berfungsi dengan baik dan dapat melihat sisa kWh yang tersisa pada meteran listrik.
+
 \section{\textit{Testing} dan Perbaikan}
 
-Test tes
+Setelah alat atau prototipe alat selesai dibuat, dilakukan \textit{testing} untuk memastikan alat dapat berfungsi sesuai dengan
+yang diinginkan, beberapa tes yang dilakukan adalah memastikan bahwa alat dapat bergerak secara vertikal dan horizontal dengan baik
+dan mulus, kemudian memastikan bahwa kalibrasi dari alat dapat berjalan dengan baik. Alat juga harus dipastikan dapat menekan tombol
+dengan akurat dalam banyak percobaan sehinga dapat digunakan dalam jangka waktu yang lama tanpa perlu banyak perbaikan atau kalibrasi ulang.
+Kemudian alat juga harus dipastikan dapat berkomunikasi dengan \textit{web interface} dengan baik, sehingga pengguna dapat melakukan
+input dan monitoring tanpa ada gangguan. Jika terdapat kesalahan atau kekurangan, maka dilakukan perbaikan dan pengulangan dari tahap
+\textit{testing} hingga alat dapat berfungsi dengan baik sesuai dengan tujuan dari penelitian.

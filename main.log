@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.28)  2 DEC 2024 14:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.28)  3 DEC 2024 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Data/Programming/PROPOSAL/main.tex
-(d:/Data/Programming/PROPOSAL/main.tex
+**d:/Data/PROJECTS/Programming/PROPOSAL/main.tex
+(d:/Data/PROJECTS/Programming/PROPOSAL/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -951,7 +951,50 @@ Package pdftex.def Info: sampul/gambar/sampul-luar-tipis.png  used on input line
  [1
 
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) [2
+
+
+] (./sampul/sampul-luar.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(184.9429pt, 603.19844pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=603.19844pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=80.79912pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./sampul/konten-en.tex)
+File: sampul/gambar/sampul-luar-tipis.png Graphic file (type png)
+<use sampul/gambar/sampul-luar-tipis.png>
+Package pdftex.def Info: sampul/gambar/sampul-luar-tipis.png  used on input line 38.
+(pdftex.def)             Requested size: 597.5021pt x 845.0387pt.
+ [3
+
+]) (./lainnya/lembar-pengesahan.tex [4
 
 
 ]
@@ -963,44 +1006,44 @@ LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/it' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 17.
- (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4
+ (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd) (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [5] [6
 
 ] (./lainnya/abstrak.tex
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14.4> not available
 (Font)              Font shape `OT1/txr/bx/it' tried instead on input line 4.
-) [5
-
-] [6
-
-] (./lainnya/abstrak-en.tex) [7
+) [7
 
 ] [8
+
+] (./lainnya/abstrak-en.tex) [9
+
+] [10
 
 ] (./main.toc
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9
+ [11
 
 ])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [10] (./main.lof)
+ [12] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [11
+ [13
 
 
-] [12
+] [14
 
 ] (./main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [13
+ [15
 
-] [14
+] [16
 
 ] (./konten/1-pendahuluan.tex
 Chapter 1.
@@ -1031,7 +1074,7 @@ Overfull \hbox (0.87456pt too wide) in paragraph at lines 10--11
 \OT1/txr/m/it/12 Listrik \OT1/txr/m/n/12 ini me-ngem-bang-kan sis-tem pengisian to-ken listrik yang me-man-faatkan 12 solenoid
  []
 
-<gambar/industry-40.png, id=297, 432.86719pt x 105.39375pt>
+<gambar/industry-40.png, id=303, 432.86719pt x 105.39375pt>
 File: gambar/industry-40.png Graphic file (type png)
 <use gambar/industry-40.png>
 Package pdftex.def Info: gambar/industry-40.png  used on input line 28.
@@ -1040,78 +1083,78 @@ Package pdftex.def Info: gambar/industry-40.png  used on input line 28.
 
 
 ] [4 <./gambar/industry-40.png>]
-<gambar/pinout-esp32.png, id=319, 580.41844pt x 571.38469pt>
+<gambar/pinout-esp32.png, id=326, 580.41844pt x 571.38469pt>
 File: gambar/pinout-esp32.png Graphic file (type png)
 <use gambar/pinout-esp32.png>
-Package pdftex.def Info: gambar/pinout-esp32.png  used on input line 57.
+Package pdftex.def Info: gambar/pinout-esp32.png  used on input line 46.
 (pdftex.def)             Requested size: 204.85846pt x 201.67032pt.
  [5 <./gambar/pinout-esp32.png>]
-<gambar/nut-screw-mech.png, id=332, 585.68813pt x 318.43968pt>
+<gambar/nut-screw-mech.png, id=338, 585.68813pt x 318.43968pt>
 File: gambar/nut-screw-mech.png Graphic file (type png)
 <use gambar/nut-screw-mech.png>
-Package pdftex.def Info: gambar/nut-screw-mech.png  used on input line 74.
+Package pdftex.def Info: gambar/nut-screw-mech.png  used on input line 63.
 (pdftex.def)             Requested size: 227.62206pt x 123.75851pt.
-<gambar/pully-mech.png, id=333, 586.44093pt x 518.6878pt>
+<gambar/pully-mech.png, id=339, 586.44093pt x 518.6878pt>
 File: gambar/pully-mech.png Graphic file (type png)
 <use gambar/pully-mech.png>
-Package pdftex.def Info: gambar/pully-mech.png  used on input line 81.
+Package pdftex.def Info: gambar/pully-mech.png  used on input line 70.
 (pdftex.def)             Requested size: 182.09486pt x 161.05273pt.
-<gambar/servo-motor-diff.png, id=335, 470.50781pt x 140.77594pt>
+<gambar/servo-motor-diff.png, id=341, 470.50781pt x 140.77594pt>
 File: gambar/servo-motor-diff.png Graphic file (type png)
 <use gambar/servo-motor-diff.png>
-Package pdftex.def Info: gambar/servo-motor-diff.png  used on input line 90.
+Package pdftex.def Info: gambar/servo-motor-diff.png  used on input line 79.
 (pdftex.def)             Requested size: 364.19667pt x 108.96703pt.
 
 Underfull \vbox (badness 4621) has occurred while \output is active []
 
  [6 <./gambar/nut-screw-mech.png> <./gambar/pully-mech.png>] [7 <./gambar/servo-motor-diff.png>]
-<gambar/lm-gudie.png, id=349, 330.48468pt x 256.70906pt>
+<gambar/lm-gudie.png, id=355, 330.48468pt x 256.70906pt>
 File: gambar/lm-gudie.png Graphic file (type png)
 <use gambar/lm-gudie.png>
-Package pdftex.def Info: gambar/lm-gudie.png  used on input line 105.
+Package pdftex.def Info: gambar/lm-gudie.png  used on input line 94.
 (pdftex.def)             Requested size: 273.14923pt x 212.17928pt.
  [8 <./gambar/lm-gudie.png>]
-<gambar/cad-image.png, id=358, 737.00343pt x 636.87938pt>
-File: gambar/cad-image.png Graphic file (type png)
-<use gambar/cad-image.png>
-Package pdftex.def Info: gambar/cad-image.png  used on input line 127.
-(pdftex.def)             Requested size: 273.14923pt x 236.04012pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [9]
-<gambar/fdm-3d-printer.png, id=363, 903.375pt x 677.53125pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+<gambar/cad-image.png, id=375, 737.00343pt x 636.87938pt>
+File: gambar/cad-image.png Graphic file (type png)
+<use gambar/cad-image.png>
+Package pdftex.def Info: gambar/cad-image.png  used on input line 162.
+(pdftex.def)             Requested size: 273.14923pt x 236.04012pt.
+<gambar/fdm-3d-printer.png, id=376, 903.375pt x 677.53125pt>
 File: gambar/fdm-3d-printer.png Graphic file (type png)
 <use gambar/fdm-3d-printer.png>
-Package pdftex.def Info: gambar/fdm-3d-printer.png  used on input line 138.
+Package pdftex.def Info: gambar/fdm-3d-printer.png  used on input line 173.
 (pdftex.def)             Requested size: 159.33821pt x 119.50018pt.
-<gambar/sla-3d-printer.jpg, id=364, 501.875pt x 501.875pt>
+ [11 <./gambar/cad-image.png>]
+<gambar/sla-3d-printer.jpg, id=382, 501.875pt x 501.875pt>
 File: gambar/sla-3d-printer.jpg Graphic file (type jpg)
 <use gambar/sla-3d-printer.jpg>
-Package pdftex.def Info: gambar/sla-3d-printer.jpg  used on input line 145.
+Package pdftex.def Info: gambar/sla-3d-printer.jpg  used on input line 180.
 (pdftex.def)             Requested size: 113.81102pt x 113.80533pt.
- [10 <./gambar/cad-image.png> <./gambar/fdm-3d-printer.png>]
-<gambar/sls-3d-printer.jpg, id=370, 451.6875pt x 451.6875pt>
+<gambar/sls-3d-printer.jpg, id=383, 451.6875pt x 451.6875pt>
 File: gambar/sls-3d-printer.jpg Graphic file (type jpg)
 <use gambar/sls-3d-printer.jpg>
-Package pdftex.def Info: gambar/sls-3d-printer.jpg  used on input line 152.
+Package pdftex.def Info: gambar/sls-3d-printer.jpg  used on input line 187.
 (pdftex.def)             Requested size: 136.57462pt x 136.57558pt.
- [11 <./gambar/sla-3d-printer.jpg> <./gambar/sls-3d-printer.jpg>]
-<gambar/meteran-prabayar.png, id=378, 402.75468pt x 333.49594pt>
+ [12 <./gambar/fdm-3d-printer.png> <./gambar/sla-3d-printer.jpg> <./gambar/sls-3d-printer.jpg>] [13]
+<gambar/meteran-prabayar.png, id=395, 402.75468pt x 333.49594pt>
 File: gambar/meteran-prabayar.png Graphic file (type png)
 <use gambar/meteran-prabayar.png>
-Package pdftex.def Info: gambar/meteran-prabayar.png  used on input line 164.
+Package pdftex.def Info: gambar/meteran-prabayar.png  used on input line 200.
 (pdftex.def)             Requested size: 227.62206pt x 188.47644pt.
-) [12 <./gambar/meteran-prabayar.png>] [13] [14
-
-] (./konten/3-metodologi.tex
+) [14 <./gambar/meteran-prabayar.png>] (./konten/3-metodologi.tex
 Chapter 3.
-<gambar/diagram-metodologi.png, id=394, 1429.34pt x 674.52pt>
+<gambar/diagram-metodologi.png, id=402, 1429.34pt x 674.52pt>
 File: gambar/diagram-metodologi.png Graphic file (type png)
 <use gambar/diagram-metodologi.png>
 Package pdftex.def Info: gambar/diagram-metodologi.png  used on input line 9.
 (pdftex.def)             Requested size: 455.24411pt x 214.83186pt.
-<gambar/prototype-2.png, id=397, 578.16pt x 578.16pt>
+<gambar/prototype-2.png, id=405, 578.16pt x 578.16pt>
 File: gambar/prototype-2.png Graphic file (type png)
 <use gambar/prototype-2.png>
 Package pdftex.def Info: gambar/prototype-2.png  used on input line 35.
@@ -1121,19 +1164,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15
 
+
  <./gambar/diagram-metodologi.png>]
-<gambar/prototype-3.png, id=403, 367.3725pt x 352.31625pt>
+<gambar/prototype-3.png, id=412, 367.3725pt x 352.31625pt>
 File: gambar/prototype-3.png Graphic file (type png)
 <use gambar/prototype-3.png>
 Package pdftex.def Info: gambar/prototype-3.png  used on input line 42.
 (pdftex.def)             Requested size: 182.09486pt x 174.6363pt.
  [16 <./gambar/prototype-2.png> <./gambar/prototype-3.png>]
-<gambar/bambu-studio.png, id=411, 1202.24156pt x 788.19469pt>
+<gambar/bambu-studio.png, id=420, 1202.24156pt x 788.19469pt>
 File: gambar/bambu-studio.png Graphic file (type png)
 <use gambar/bambu-studio.png>
 Package pdftex.def Info: gambar/bambu-studio.png  used on input line 77.
 (pdftex.def)             Requested size: 318.66948pt x 208.9187pt.
-<gambar/contoh-prototipe-kerangka.jpg, id=413, 1204.5pt x 1606.0pt>
+<gambar/contoh-prototipe-kerangka.jpg, id=422, 1204.5pt x 1606.0pt>
 File: gambar/contoh-prototipe-kerangka.jpg Graphic file (type jpg)
 <use gambar/contoh-prototipe-kerangka.jpg>
 Package pdftex.def Info: gambar/contoh-prototipe-kerangka.jpg  used on input line 94.
@@ -1142,13 +1186,13 @@ Package pdftex.def Info: gambar/contoh-prototipe-kerangka.jpg  used on input lin
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17 <./gambar/bambu-studio.png>]
-<gambar/implementasi-elektronik.png, id=420, 1589.94pt x 1172.38pt>
+<gambar/implementasi-elektronik.png, id=428, 1589.94pt x 1172.38pt>
 File: gambar/implementasi-elektronik.png Graphic file (type png)
 <use gambar/implementasi-elektronik.png>
 Package pdftex.def Info: gambar/implementasi-elektronik.png  used on input line 103.
 (pdftex.def)             Requested size: 455.24411pt x 335.68811pt.
  [18 <./gambar/contoh-prototipe-kerangka.jpg> <./gambar/implementasi-elektronik.png>]
-<gambar/diagram-program.png, id=427, 1316.92pt x 1156.32pt>
+<gambar/diagram-program.png, id=435, 1316.92pt x 1156.32pt>
 File: gambar/diagram-program.png Graphic file (type png)
 <use gambar/diagram-program.png>
 Package pdftex.def Info: gambar/diagram-program.png  used on input line 135.
@@ -1163,16 +1207,12 @@ Overfull \hbox (6.4799pt too wide) in paragraph at lines 10--15
 \OT1/txr/m/n/12 un-tuk memver-i-fikasi ke-ber-hasi-lan proses pengisian to-ken se-cara vi-sual dan au-di-tori, serta memas-
  []
 
-[21
+) [21
 
 
-]
-<gambar/hasil-pendahuluan.jpg, id=442, 497.60907pt x 726.46407pt>
-File: gambar/hasil-pendahuluan.jpg Graphic file (type jpg)
-<use gambar/hasil-pendahuluan.jpg>
-Package pdftex.def Info: gambar/hasil-pendahuluan.jpg  used on input line 30.
-(pdftex.def)             Requested size: 182.09486pt x 265.8389pt.
-) [22 <./gambar/hasil-pendahuluan.jpg>] (./konten/5-jadwal-penelitian.tex
+] [22
+
+] (./konten/5-jadwal-penelitian.tex
 Chapter 5.
 
 Underfull \hbox (badness 1748) in paragraph at lines 18--18
@@ -1186,11 +1226,10 @@ Underfull \hbox (badness 3579) in paragraph at lines 22--22
 
 ) [23
 
-
 ] [24
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 175.
+LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 180.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
 ) [25
@@ -1201,24 +1240,24 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F2CD303FE3EA2205A3D086C3CDACA453;5203.
+(rerunfilecheck)             Checksum: 9EED5444E904CB4150D8F5BC2759487A;5109.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22198 strings out of 474116
- 384665 string characters out of 5747716
- 1947190 words of memory out of 5000000
- 44083 multiletter control sequences out of 15000+600000
+ 22203 strings out of 474116
+ 384758 string characters out of 5747716
+ 1948190 words of memory out of 5000000
+ 44081 multiletter control sequences out of 15000+600000
  598813 words of font info for 120 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,12n,81p,3961b,1282s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,81p,3970b,1282s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txtt.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 3294827 bytes).
+Output written on main.pdf (41 pages, 3207923 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
- 447 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 560 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
