@@ -1,8 +1,8 @@
-PWD c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL
+PWD d:/Data/Programming/PROPOSAL
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/rayha/OneDrive - Institut Teknologi Sepuluh Nopember/TUGAS AKHIR/PROPOSAL/main.tex
+INPUT d:/Data/Programming/PROPOSAL/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -213,8 +213,14 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxexa.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxexa.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
-OUTPUT main.out
+INPUT ./main.out
+INPUT ./main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT ./main.out
+INPUT ./main.out
+OUTPUT main.out
 INPUT c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 OUTPUT main.bcf
 INPUT main.bbl
@@ -360,8 +366,17 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT ./lainnya/abstrak-en.tex
 INPUT ./lainnya/abstrak-en.tex
 INPUT lainnya/abstrak-en.tex
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
 OUTPUT main.toc
+INPUT ./main.lof
+INPUT ./main.lof
+INPUT main.lof
 OUTPUT main.lof
+INPUT ./main.lot
+INPUT ./main.lot
+INPUT main.lot
 OUTPUT main.lot
 INPUT ./konten/1-pendahuluan.tex
 INPUT ./konten/1-pendahuluan.tex
@@ -471,6 +486,11 @@ INPUT ./gambar/diagram-program.png
 INPUT ./konten/4-lainnya.tex
 INPUT ./konten/4-lainnya.tex
 INPUT konten/4-lainnya.tex
+INPUT ./gambar/hasil-pendahuluan.jpg
+INPUT ./gambar/hasil-pendahuluan.jpg
+INPUT ./gambar/hasil-pendahuluan.jpg
+INPUT ./gambar/hasil-pendahuluan.jpg
+INPUT ./gambar/hasil-pendahuluan.jpg
 INPUT ./konten/5-jadwal-penelitian.tex
 INPUT ./konten/5-jadwal-penelitian.tex
 INPUT konten/5-jadwal-penelitian.tex
@@ -481,6 +501,7 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txtt.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb
